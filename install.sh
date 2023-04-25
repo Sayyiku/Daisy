@@ -68,9 +68,9 @@ echo "✅  生成环境变量成功"
 
 echo ""
 echo "修改目录权限 ......"
-sudo chown -R ${USERNAME}:${GROUPNAME} ../StreamEase
-sudo chmod -R 770 ../StreamEase
-echo "✅  修改 StreamEase 目录权限成功"
+sudo chown -R ${USERNAME}:${GROUPNAME} ../Daisy
+sudo chmod -R 770 ../Daisy
+echo "✅  修改 Daisy 目录权限成功"
 
 
 echo "✅  程序执行完毕 ✅"
